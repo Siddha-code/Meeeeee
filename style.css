@@ -1,0 +1,13 @@
+body{
+    color: black;
+    background: cyan;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+#camera{
+    border: solid rgb(55, 55, 87) 10px;
+    width: 350px;
+    height: 300px;
+}
